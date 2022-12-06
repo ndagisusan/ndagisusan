@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Susan Ndagi
 - 👀 I’m interested in Software and Support Engineering
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on great projects
+- 🌱 I’m currently learning DevOps and Advanced Python
+- 💞️ I’m looking to collaborate on any great Python projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/susanndagi) | [Twitter](https://twitter.com/ndagi_susan)
 
 <!---
