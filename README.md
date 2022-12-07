@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h2>👋 Hi, I’m Susan Ndagi (She/Her :woman:) </h2><br>
-  <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="200" />
 </div><br />
 
 👀 I’m interested in Software Support Engineering <br />
@@ -37,7 +37,7 @@
 ***GitHub profile summary*** [here](https://profile-summary-for-github.com/user/ndagisusan)
 
 <p align="center">
-  <a href="https://github.com/ndagisusan"><img src="http://github-readme-streak-stats.herokuapp.com?user=ndagisusan&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00"/></a>
+  <a href="https://github.com/ndagisusan"><img src="http://github-readme-streak-stats.herokuapp.com?user=ndagisusan&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" width="60%"/></a>
   <a href="https://github.com/ndagisusan"><img width="52%" src="https://github-readme-stats.vercel.app/api?username=ndagisusan&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="Susan Ndagi GitHub Stats"/></a>
   <a href="https://github.com/ndagisusan"><img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagisusan&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="Susan Ndagi Top Languages"/></a>
 
