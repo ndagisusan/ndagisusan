@@ -1,13 +1,15 @@
 <div id="header" align="center">
   <h2>👋 Hi, I’m Susan Ndagi (She/Her :woman:) </h2><br>
-  <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="150" />
 </div><br />
 
-👀 I’m interested in Software Support Engineering <br />
-🌱 I’m currently learning DevOps and Advanced Python <br />
-💞️ I’m looking to collaborate on any great projects, particularly Python projects<br />
-⚡ <b>Fun fact:</b> I am a great dancer <br />
-### 🤝 Connect with me: <br>
+### 👩‍💻 About Me
+- 👀 I’m interested in Software Support Engineering <br />
+- 🌱 I’m currently learning DevOps and Advanced Python <br />
+- 💞️ I’m looking to collaborate on any great projects, particularly Python projects<br />
+- ⚡ <b>Fun fact:</b> I am a great dancer <br />
+
+### 🤝 Connect with me: <br />
 <a href="https://www.linkedin.com/in/susanndagi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Susan Ndagi | LinkedIn"/>
 </a>&nbsp;
@@ -37,11 +39,18 @@
 ***GitHub profile summary*** [here](https://profile-summary-for-github.com/user/ndagisusan)
 
 <p align="center">
-  <a href="https://github.com/ndagisusan"><img src="http://github-readme-streak-stats.herokuapp.com?user=ndagisusan&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" width="60%"/></a>
+  <a href="https://github.com/ndagisusan"><img src="http://github-readme-streak-stats.herokuapp.com?user=ndagisusan&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" width="80%"/></a>
   <a href="https://github.com/ndagisusan"><img width="52%" src="https://github-readme-stats.vercel.app/api?username=ndagisusan&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="Susan Ndagi GitHub Stats"/></a>
   <a href="https://github.com/ndagisusan"><img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagisusan&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="Susan Ndagi Top Languages"/></a>
-
 </p>
+
+### 💻 Top Repositories
+<a href="https://github.com/ndagisusan/Introduction-to-Python-coursework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndagisusan&repo=Introduction-to-Python-coursework&theme=blueberry" />
+</a>
+<a href="https://github.com/ndagisusan/airquality">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndagisusan&repo=airquality&theme=blueberry" />
+</a>
 
 <!---
 ndagisusan/ndagisusan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
