@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h2>👋 Hi, I’m Susan Ndagi (She/Her :woman:) </h2><br>
+  <h1>👋 Hi, I’m Susan Ndagi (She/Her :woman:) </h1><br>
   <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="150px" style="border-radius: 30px"/>
 </div>
 
@@ -12,13 +12,13 @@
 
 - ⚡ <b>Fun fact:</b> I am a great dancer
 
-### 🤝 Connect with me:
+#### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/susanndagi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Susan Ndagi | LinkedIn"/>
 </a>&nbsp;
 <a href="https://twitter.com/ndagi_susan">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Susan Ndagi | Twitter"/>
-</a><br /><br />
+</a>
 
 ## 🛠️ Technical Skills
 <div align="center">
@@ -36,7 +36,7 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>&nbsp;
   <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>&nbsp;  
-</div><br />
+</div>
 
 ## 🔥 GitHub Stats 
 ***GitHub profile summary*** [here](https://profile-summary-for-github.com/user/ndagisusan)
@@ -45,7 +45,7 @@
   <a href="https://github.com/ndagisusan"><img src="http://github-readme-streak-stats.herokuapp.com?user=ndagisusan&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" width="70%"/></a>
   <a href="https://github.com/ndagisusan"><img width="52%" src="https://github-readme-stats.vercel.app/api?username=ndagisusan&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="Susan Ndagi GitHub Stats"/></a>
   <a href="https://github.com/ndagisusan"><img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagisusan&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="Susan Ndagi Top Languages"/></a>
-</p><br />
+</p>
 
 ## 💻 Top Repositories
 <p align="center">
