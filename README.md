@@ -6,14 +6,14 @@
 👀 I’m interested in Software Support Engineering <br />
 🌱 I’m currently learning DevOps and Advanced Python <br />
 💞️ I’m looking to collaborate on any great projects, particularly Python projects<br />
-⚡ <b>Fun fact:</b> I am a great dancer <br><br>
+⚡ <b>Fun fact:</b> I am a great dancer <br /><br />
 ### 🤝 Connect with me: <br>
 <a href="https://www.linkedin.com/in/susanndagi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Susan Ndagi | LinkedIn"/>
 </a>&nbsp;
 <a href="https://twitter.com/ndagi_susan">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Susan Ndagi | Twitter"/>
-</a>
+</a><br />
 
 ### 🛠️ Technical Skills
 <div align="center">
@@ -32,12 +32,12 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>&nbsp;
   <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>&nbsp;  
-</div>
+</div><br />
 
 ### 🔥 GitHub Stats 
 ***GitHub profile summary*** [here](https://profile-summary-for-github.com/user/ndagisusan)
 
-<p align="center">
+<p>
 <a href="https://github.com/ndagisusan"><img width="95%" src="http://github-readme-streak-stats.herokuapp.com?user=ndagisusan&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" /></a>
 <a href="https://github.com/ndagisusan"><img width="55%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagisusan&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="Susan Ndagi Top Languages"/></a>
 <a href="https://github.com/ndagisusan"><img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api?username=ndagisusan&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="Susan Ndagi GitHub Stats"/></a>
