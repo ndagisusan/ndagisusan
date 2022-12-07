@@ -3,10 +3,9 @@
   <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="125px" />
 </div>
 
-## 👩‍💻 About Me
-- 👀 I’m interested in Software Support Engineering
-
-- 🌱 I’m currently learning DevOps and Advanced Python
+## About Me 👩‍🦱 🇰🇪
+- 👩‍💻 I’m a Support Engineer and Web developer
+- 🌱 Junior Python and DevOps Developer
 
 - 💞️ I’m looking to collaborate on any great projects, particularly Python projects
 
