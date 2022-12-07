@@ -45,12 +45,12 @@
 </p>
 
 ### 💻 Top Repositories
-<a href="https://github.com/ndagisusan/Introduction-to-Python-coursework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndagisusan&repo=Introduction-to-Python-coursework&theme=blueberry" />
-</a>
-<a href="https://github.com/ndagisusan/airquality">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndagisusan&repo=airquality&theme=blueberry" />
-</a>
+<p align="center">
+  <a href="https://github.com/ndagisusan/Introduction-to-Python-coursework">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ndagisusan&repo=Introduction-to-Python-coursework&theme=buefy" /></a>
+  <a href="https://github.com/ndagisusan/airquality">
+  <img width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ndagisusan&repo=airquality&theme=buefy" /></a>
+</p>
 
 <!---
 ndagisusan/ndagisusan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
