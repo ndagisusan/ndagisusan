@@ -12,7 +12,7 @@
 
 - ⚡ <b>Fun fact:</b> I am a great dancer
 
-#### 🤝 Connect with me:
+### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/susanndagi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Susan Ndagi | LinkedIn"/>
 </a>&nbsp;
