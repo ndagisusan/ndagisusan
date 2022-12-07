@@ -37,10 +37,10 @@
 ### 🔥 GitHub Stats 
 ***GitHub profile summary*** [here](https://profile-summary-for-github.com/user/ndagisusan)
 
-<p>
+<p align="center">
 <a href="https://github.com/ndagisusan"><img src="http://github-readme-streak-stats.herokuapp.com?user=ndagisusan&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" width="90%"/></a>
-<a href="https://github.com/ndagisusan"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagisusan&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="Susan Ndagi Top Languages"/></a>
-<a href="https://github.com/ndagisusan"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=ndagisusan&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="Susan Ndagi GitHub Stats"/></a>
+<a href="https://github.com/ndagisusan"><img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagisusan&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="Susan Ndagi Top Languages"/></a>
+<a href="https://github.com/ndagisusan"><img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=ndagisusan&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="Susan Ndagi GitHub Stats"/></a>
 </p>
 
 <!---
