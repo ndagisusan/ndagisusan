@@ -1,6 +1,6 @@
 👋 Hi, I’m Susan Ndagi (She/ Her :woman:) <br>
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="100"/>
 </div>
 
