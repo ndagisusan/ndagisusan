@@ -1,12 +1,15 @@
 <div id="header" align="center">
   <h2>👋 Hi, I’m Susan Ndagi (She/Her :woman:) </h2><br>
-  <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="150" />
-</div><br />
+  <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="150" border-radius: 30%;/>
+</div>
 
 ### 👩‍💻 About Me
-- 👀 I’m interested in Software Support Engineering <br />
-- 🌱 I’m currently learning DevOps and Advanced Python <br />
-- 💞️ I’m looking to collaborate on any great projects, particularly Python projects<br />
+- 👀 I’m interested in Software Support Engineering
+
+- 🌱 I’m currently learning DevOps and Advanced Python
+
+- 💞️ I’m looking to collaborate on any great projects, particularly Python projects
+
 - ⚡ <b>Fun fact:</b> I am a great dancer <br />
 
 ### 🤝 Connect with me: <br />
@@ -33,7 +36,7 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>&nbsp;
   <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>&nbsp;  
-</div><br />
+</div>
 
 ### 🔥 GitHub Stats 
 ***GitHub profile summary*** [here](https://profile-summary-for-github.com/user/ndagisusan)
@@ -47,7 +50,7 @@
 ### 💻 Top Repositories
 <p align="center">
   <a href="https://github.com/ndagisusan/Introduction-to-Python-coursework">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ndagisusan&repo=Introduction-to-Python-coursework&theme=buefy" /></a>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=ndagisusan&repo=Introduction-to-Python-coursework&theme=buefy" /></a>
   <a href="https://github.com/ndagisusan/airquality">
   <img width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ndagisusan&repo=airquality&theme=buefy" /></a>
 </p>
