@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h2>👋 Hi, I’m Susan Ndagi (She/Her :woman:) </h2><br>
-  <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="150" border-radius: 30%;/>
+  <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="150" border-radius: "30%"/>
 </div>
 
 ### 👩‍💻 About Me
@@ -12,7 +12,8 @@
 
 - ⚡ <b>Fun fact:</b> I am a great dancer <br />
 
-### 🤝 Connect with me: <br />
+
+### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/susanndagi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Susan Ndagi | LinkedIn"/>
 </a>&nbsp;
@@ -50,7 +51,7 @@
 ### 💻 Top Repositories
 <p align="center">
   <a href="https://github.com/ndagisusan/Introduction-to-Python-coursework">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=ndagisusan&repo=Introduction-to-Python-coursework&theme=buefy" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ndagisusan&repo=Introduction-to-Python-coursework&theme=buefy" /></a>
   <a href="https://github.com/ndagisusan/airquality">
   <img width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=ndagisusan&repo=airquality&theme=buefy" /></a>
 </p>
