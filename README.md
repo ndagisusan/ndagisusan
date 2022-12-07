@@ -6,7 +6,7 @@
 👀 I’m interested in Software Support Engineering <br />
 🌱 I’m currently learning DevOps and Advanced Python <br />
 💞️ I’m looking to collaborate on any great projects, particularly Python projects<br />
-⚡ <b>Fun fact:</b> I am a great dancer <br /><br />
+⚡ <b>Fun fact:</b> I am a great dancer <br />
 ### 🤝 Connect with me: <br>
 <a href="https://www.linkedin.com/in/susanndagi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Susan Ndagi | LinkedIn"/>
@@ -38,9 +38,9 @@
 ***GitHub profile summary*** [here](https://profile-summary-for-github.com/user/ndagisusan)
 
 <p>
-<a href="https://github.com/ndagisusan"><img width="95%" src="http://github-readme-streak-stats.herokuapp.com?user=ndagisusan&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" /></a>
-<a href="https://github.com/ndagisusan"><img width="55%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagisusan&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="Susan Ndagi Top Languages"/></a>
-<a href="https://github.com/ndagisusan"><img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api?username=ndagisusan&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="Susan Ndagi GitHub Stats"/></a>
+<a href="https://github.com/ndagisusan"><img src="http://github-readme-streak-stats.herokuapp.com?user=ndagisusan&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" /></a>
+<a href="https://github.com/ndagisusan"><img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagisusan&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="Susan Ndagi Top Languages"/></a>
+<a href="https://github.com/ndagisusan"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=ndagisusan&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="Susan Ndagi GitHub Stats"/></a>
 </p>
 
 <!---
