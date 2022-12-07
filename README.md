@@ -9,7 +9,12 @@
 💞️ I’m looking to collaborate on any great projects, particularly Python projects
 ⚡ Fun fact: I am a great dancer <br><br>
 📫 How to reach me: <br>
-<a href="https://www.linkedin.com/in/susanndagi"><img align="left" src="https://raw.githubusercontent.com/ndagisusan/ndagisusan/main/images/linkedin.svg" alt="Susan Ndagi | LinkedIn" width="21px"/></a> <a href="https://twitter.com/ndagi_susan"><img align="left" src="https://raw.githubusercontent.com/ndagisusan/ndagisusan/main/images/twitter.svg" alt="Susan Ndagi | Twitter" width="21px"/></a>
+<a href="https://www.linkedin.com/in/susanndagi">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Susan Ndagi | LinkedIn"/>
+</a>
+<a href="https://twitter.com/ndagi_susan">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Susan Ndagi | Twitter"/>
+</a>
 
 <!---
 ndagisusan/ndagisusan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
