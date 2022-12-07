@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <h1>👋 Hi, I’m Susan Ndagi (She/Her :woman:) </h1><br>
+  <h1>👋 Hi, I’m Susan Ndagi (She/Her 👩‍🦱) </h1><br>
   <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="125px" />
 </div>
 
-## About Me 👩‍🦱 🇰🇪
-- 👩‍💻 I’m a Support Engineer and Web developer
+## About Me 👩‍💻 🇰🇪
+- 💻 I’m a Support Engineer and Web developer
 - 🌱 Junior Python and DevOps Developer
 
 - 💞️ I’m looking to collaborate on any great projects, particularly Python projects
@@ -46,7 +46,7 @@
   <a href="https://github.com/ndagisusan"><img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagisusan&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="Susan Ndagi Top Languages"/></a>
 </p>
 
-## 💻 Top Repositories
+## 📂 Top Repositories
 <p align="center">
   <a href="https://github.com/ndagisusan/Introduction-to-Python-coursework">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ndagisusan&repo=Introduction-to-Python-coursework&theme=buefy" /></a>
