@@ -4,12 +4,12 @@
 </div>
 
 ## About Me 👩‍💻 🇰🇪
-- 💻 I’m a Support Engineer and Web developer
-- 🌱 Junior Python and DevOps Developer
+- 💻 I’m a Support Engineer and Web developer.
+- 🌱 Junior Python and DevOps Developer.
 
-- 💞️ I’m looking to collaborate on any great projects, particularly Python projects
+- 💞️ I’m looking to collaborate on any great projects, particularly Python projects.
 
-- ⚡ <b>Fun fact:</b> I am a great dancer
+- ⚡ <b>Fun fact:</b> I am a great dancer.
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/susanndagi">
