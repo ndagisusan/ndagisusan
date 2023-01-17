@@ -6,15 +6,13 @@
 ## About Me 👩‍💻 🇰🇪
 - 💻 I’m a Support Engineer and Web developer.
 - 🌱 Junior Python and DevOps Developer.
-
 - 💞️ I’m looking to collaborate on any great projects, particularly Python projects.
-
 - ⚡ <b>Fun fact:</b> I am a great dancer.
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/susanndagi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Susan Ndagi | LinkedIn"/>
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://twitter.com/ndagi_susan">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Susan Ndagi | Twitter"/>
 </a>
